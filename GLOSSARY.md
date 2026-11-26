@@ -28,6 +28,10 @@ _Avoid_: State, stage, job status
 One image within a Volume.
 _Avoid_: Image, scan
 
+**Reading Progress**:
+How far a Reader has read in a Volume: the last Page reached, and whether the Volume is finished.
+_Avoid_: Bookmark, position, history
+
 **Text Box**:
 A region of a page holding one piece of recognised Japanese text, positioned so it can be overlaid on the image for lookup.
 _Avoid_: Bubble, caption, OCR block
