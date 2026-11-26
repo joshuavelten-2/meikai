@@ -20,6 +20,10 @@ _Avoid_: Title, manga, work
 One uploaded archive of a Series, read as an ordered sequence of Pages.
 _Avoid_: Book, tankōbon, upload
 
+**Volume status**:
+Where a Volume is in its lifecycle: Uploading, Processing, Ready (readable) or Rejected (the upload failed validation, and the Reader is told why).
+_Avoid_: State, stage, job status
+
 **Page**:
 One image within a Volume.
 _Avoid_: Image, scan
